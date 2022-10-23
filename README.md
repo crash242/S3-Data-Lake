@@ -4,6 +4,6 @@ The purpose of this project is to build an ETL pipeline that extracts their data
 
 Project Datasets
 You'll be working with two datasets that reside in S3. Here are the S3 links for each:
-Song data: `s3://udacity-dend/song_data
-Log data: `s3://udacity-dend/log_data
+Song data: `s3://udacity-dend/song_data`
+Log data: `s3://udacity-dend/log_data`
 
